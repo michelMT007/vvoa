@@ -1,0 +1,6 @@
+C:\Users\MAC\Documents\SharpDevelop Projects\GenCard\GenCard\bin\Debug\GenCard.exe.config
+C:\Users\MAC\Documents\SharpDevelop Projects\GenCard\GenCard\bin\Debug\GenCard.exe
+C:\Users\MAC\Documents\SharpDevelop Projects\GenCard\GenCard\bin\Debug\GenCard.pdb
+C:\Users\MAC\Documents\SharpDevelop Projects\GenCard\GenCard\obj\Debug\GenCard.csprojResolveAssemblyReference.cache
+C:\Users\MAC\Documents\SharpDevelop Projects\GenCard\GenCard\obj\Debug\GenCard.exe
+C:\Users\MAC\Documents\SharpDevelop Projects\GenCard\GenCard\obj\Debug\GenCard.pdb
